@@ -1,4 +1,4 @@
-# Mini-projet POO - Une médiathèque en Python
+# Mini-projet POO: Une médiathèque en Python
 
 Gestion d'une petite médiathèque (livres et DVD, adhérents, prêts), écrite en Python avec la bibliothèque standard uniquement. Le projet illustre les quatre piliers de la POO : encapsulation, héritage, polymorphisme et abstraction.
 
